@@ -1,0 +1,7 @@
+[package]
+org = "IntegrationWorks"
+name = "iw_ballerina_template"
+version = "0.1.0"
+
+[build-options]
+observabilityIncluded = true
